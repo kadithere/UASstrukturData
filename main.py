@@ -10,10 +10,9 @@ from tampilkan import jalankan_tampilkan
 def tampilkan_menu():
     print("=" * 55)
     print("     SISTEM RESERVASI TEMPAT MAKAN")
-    print("     (Doubly Linked List & Searching)")
     print("=" * 55)
     print("1. Tambah Reservasi")
-    print("2. Cari Reservasi (Searching)")
+    print("2. Cari Reservasi")
     print("3. Batalkan / Hapus Reservasi")
     print("4. Tampilkan Semua Reservasi")
     print("5. Keluar")
